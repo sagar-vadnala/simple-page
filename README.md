@@ -1,2 +1,1 @@
-# simple-page
-created pages with the help of html css 
+# webproject-html-css-javascript
